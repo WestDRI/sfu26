@@ -8,7 +8,7 @@ title-block-banner: true
 :::{.topdef}
 
 **Date:** \
-Tuesday, June 11, 2025
+Tuesday, June 2, 2026
 
 **Time:** *(note earlier start than our usual time)* \
 8:30am–10:00am
