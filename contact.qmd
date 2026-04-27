@@ -1,0 +1,7 @@
+---
+title: Contact
+---
+<br>
+Please email us at: `training at westdri dot ca`.
+
+<!-- To email the UVic organizing team, please use: xxx. -->
