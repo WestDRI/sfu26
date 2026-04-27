@@ -1,0 +1,34 @@
+/*-- scss:defaults --*/
+
+/*. navbar */
+
+.navbar {
+  --bs-navbar-active-color: #FF5E50 !important;
+  --bs-navbar-hover-color: #FF9B8D !important;
+  --bs-navbar-brand-hover-color: #FF9B8D !important;
+}
+
+.navbar-nav {
+  --bs-nav-link-color: #B5BCC3 !important;
+}
+
+/*. button for slides */
+
+.btn-outline-primary {
+  --bs-btn-color: #FF5E50 !important;
+  --bs-btn-border-color: #FF5E50 !important;
+  --bs-btn-hover-color: #000000 !important;
+  --bs-btn-hover-bg: #FF5E50 !important;
+  --bs-btn-hover-border-color: #000000 !important;
+  --bs-btn-focus-shadow-rgb: 39, 128, 227 !important;
+  --bs-btn-active-color: #000000 !important;
+  --bs-btn-active-bg: #FF5E50 !important;
+  --bs-btn-active-border-color: #000000 !important;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(250, 250, 250, 0.125) !important;
+  --bs-btn-disabled-color: #FF5E50 !important;
+  --bs-btn-disabled-bg: transparent !important;
+  --bs-btn-disabled-border-color: #000000 !important;
+  --bs-btn-bg: transparent !important;
+  --bs-gradient: none !important;
+  border-radius: 20px !important;
+}
