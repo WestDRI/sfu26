@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: "30af63b7-4d43-4fb3-a8ed-a04fe45e127d"
+      url: "sfu26.netlify.app"
