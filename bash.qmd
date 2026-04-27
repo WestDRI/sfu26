@@ -1,0 +1,34 @@
+---
+title: Introduction to the Unix shell
+description: |
+  <br>Hands-on introduction to the Linux command line and the interaction with a remote server. We will cover working with files and directories, common utilities, loops, redirections, wild cards, functions and scripting, and the basics of working through secure shell.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Monday, June 1, 2026
+
+**Time:** \
+9:30am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)
+
+**Location:** \
+SFU's Big Data Hub Presentation Studio (ASB 10900)
+
+**Instructor:** \
+Marie-Hélène Burle
+
+**Prerequisites:** \
+This introductory course does not require any previous experience.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+:::
+
+<!-- <br> -->
+
+<!-- * [Course notes](https://mint.westdri.ca/bash/top_intro) -->
+<!-- * Get a username: \ -->
+<!-- Go to [this list](https://tinyurl.com/clusterusernames) and write down your first name or a pseudo next to any unclaimed username. -->

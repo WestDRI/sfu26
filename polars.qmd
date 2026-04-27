@@ -1,0 +1,35 @@
+---
+title: Python Polars
+description: |
+  <br>
+  Polars is a modern open source and very fast DataFrame framework for Python, Rust, JS, R, and Ruby. In this course, we will cover Polars for Python.
+
+  Multi-threaded queries, SIMD vectorization, automatic parallelization, columnar Apache Arrow memory format, and lazy evaluation make Polars much faster than pandas. Polars is superior to pandas in other ways as well such as proper support for missing data and an ability to work with more data than can fit in memory. The API is intuitive and Polars integrates well with other Python libraries from the scientific programming toolbox.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Thursday, June 4, 2026
+
+**Time:** \
+9:30am–12:30pm (morning session)
+
+**Location:** \
+SFU's Big Data Hub Presentation Studio (ASB 10900)
+
+**Instructor:** \
+Marie-Hélène Burle
+
+**Prerequisites:** \
+Basic knowledge of Python.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+:::
+
+<!-- <br> -->
+
+<!-- Course notes can be found [here](https://mint.westdri.ca/python/hpc_polars.html). -->

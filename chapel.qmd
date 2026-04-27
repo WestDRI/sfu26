@@ -1,0 +1,47 @@
+---
+title: Introduction to Chapel
+description: |
+  <br>If you have never done parallel programming before, this beginner-friendly course will guide you through the
+  basic concepts of writing data-parallel programs for both shared- and distributed-memory systems.
+
+  Chapel is a modern programming language offering high-level, easy-to-use abstractions for task and data
+  parallelism. Its intuitive syntax makes it an excellent choice for novice HPC users learning parallel
+  programming. Chapel supports a wide range of parallel hardware -- from multicore processors and multi-node
+  clusters to GPUs -- using consistent syntax and concepts across all levels of hardware parallelism.
+
+  This course begins with Chapel fundamentals, then focuses on data parallelism through two numerical
+  examples: one embarrassingly parallel and one tightly coupled. Towards the end we'll look at GPU
+  programming with Chapel.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Thursday, June 4, 2026
+
+**Time:** \
+1:30pm–4:30pm (afternoon session)
+
+**Location:** \
+SFU's Big Data Hub Presentation Studio (ASB 10900)
+
+**Instructor:** \
+Alex Razoumov
+
+**Prerequisites:** \
+Some Unix command-line knowledge, as well as basic familiarity with submitting jobs on an HPC cluster -- both
+of these are covered on Monday and Tuesday.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+:::
+
+<!-- <br> -->
+
+<!-- * Course notes: [Part 1 - Data parallelism](https://wgpages.netlify.app/chapel-compact) -->
+<!--   and [Part 2 - GPU programming](https://wgpages.netlify.app/chapel-gpu) -->
+<!-- * If you don't yet have a username for the training cluster, please claim one -->
+<!--   [here](https://tinyurl.com/clusterusernames) by choosing an unclaimed username and writing your name or -->
+<!--   nickname next to it. -->

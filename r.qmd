@@ -1,0 +1,39 @@
+---
+title: R optimizations
+description: |
+  <br>R is not a fast language. Poorly written R is *really slow!*
+
+  Faced with slow code, people tend to think "parallel" or "GPU" (which is an adjacent topic since GPUs allow to run many simple calculations in parallel). Parallel programming can indeed greatly help speed up some types of code.  A lot of hardware however is not the answer to poorly written code.
+
+  Before considering parallelization, you should think of ways to optimize your code sequentially because not all programs can be parallelized, parallel programming has costs and overheads, and an optimized serial code will also benefit your parallel code.
+
+  In many cases, writing better code will save you more computing time than parallelization.
+
+  This course will cover just that: how to benchmark code, how to identify bottlenecks, and how to greatly improve code performance without using additional hardware.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Wednesday, June 3, 2026
+
+**Time:** \
+1:30pm–4:30pm (afternoon session)
+
+**Location:** \
+SFU's Big Data Hub Presentation Studio (ASB 10900)
+
+**Instructor:** \
+Marie-Hélène Burle
+
+**Prerequisites:** \
+Basic knowledge of R.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+:::
+
+<!-- <br> -->
+<!-- Course notes can be found [here](https://mint.westdri.ca/r/top_hpc). -->

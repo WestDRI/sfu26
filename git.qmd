@@ -1,0 +1,31 @@
+---
+title: Introduction to version control with Git
+description: |
+  <br>This introductory course to Git will allow you to put your projects under version control, create commits with important versions of your files, revisit these versions, and add remotes on services such as GitHub or GitLab. You will get a deep understanding of Git's functioning and learn to use it from the command line.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Wednesday, June 3, 2026
+
+**Time:** \
+9:30am–12:30pm (morning session)
+
+**Location:** \
+SFU's Big Data Hub Presentation Studio (ASB 10900)
+
+**Instructor:** \
+Marie-Hélène Burle
+
+**Prerequisites:** \
+Basic knowledge of the Unix shell.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+:::
+
+<!-- <br> -->
+<!-- Course notes can be found [here](https://mint.westdri.ca/git/top_intro). -->

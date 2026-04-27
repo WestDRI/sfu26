@@ -1,0 +1,37 @@
+---
+title: Introduction to high-performance computing
+description: |
+  <br>This course is an introduction to HPC on the Alliance clusters. We will start with the cluster hardware overview, then talk about some basic tools and the software environment on our clusters. Next we will give a quick tour of various parallel programming frameworks such as OpenMP, MPI, Python Dask, newer parallel languages such as Chapel and Julia, and we will try to compile some serial, shared-memory and distributed-memory codes using makefiles. We will then proceed to working with the Slurm scheduler, submitting and benchmarking our previously compiled codes. We will learn about batch and interactive cluster usage, best practices for submitting a large number of jobs, estimating your job's resource requirements, and managing file permissions in shared cluster filesystems. There will be many demos and hands-on exercises on our training cluster.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Dates:** \
+Monday, June 1 & Tuesday, June 2, 2026
+
+**Times:** \
+Monday: 1:30pm–4:30pm (afternoon session) \
+Tuesday: 10:00am–4:30pm with a one-hour lunch break (12:30pm-1:30pm)
+
+**Location:** \
+SFU's Big Data Hub Presentation Studio (ASB 10900)
+
+**Instructor:** \
+Alex Razoumov
+
+**Prerequisites:** \
+Working knowledge of the Unix shell.
+
+**Software:** \
+We will provide access to one of our Linux systems. To make use of it, attendees will need a remote secure shell (SSH) client installed on their computer. On Windows we recommend the [free Home Edition of MobaXterm](https://mobaxterm.mobatek.net/download.html). On Mac and Linux computers, SSH is usually pre-installed (try typing `ssh` in a terminal to make sure it is there).
+
+:::
+
+<!-- <br> -->
+
+<!-- * [ZIP file](http://bit.ly/introhpc2) with PDF slides and sample codes -->
+<!--   * [alternative download link](http://temp.sh/WdctA/introHPC.zip) - will expire after 3 days -->
+<!-- * If you don't yet have a username for the training cluster, please claim one -->
+<!--   [here](https://tinyurl.com/clusterusernames) by choosing an unclaimed username and writing your name or -->
+<!--   nickname next to it. -->

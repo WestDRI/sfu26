@@ -1,0 +1,22 @@
+---
+title: Cedar tour
+description: |
+  <br>A guided tour to [Canada's largest supercomputer](https://www.sfu.ca/research/institutes-centres-facilities/other-facilities/supercomputer-cedar.html). You will see the racks of interconnected computers, learn about our various hardware, as well as the cooling and powering systems.
+title-block-banner: true
+---
+
+:::{.topdef}
+
+**Date:** \
+Tuesday, June 11, 2025
+
+**Time:** *(note earlier start than our usual time)* \
+8:30am–10:00am
+
+**Location:** \
+We will meet in front of SFU's Big Data Hub Presentation Studio (ASB 10900) and walk together to the water tower.
+
+**Guide:** \
+Megan Meredith-Lobay
+
+:::
