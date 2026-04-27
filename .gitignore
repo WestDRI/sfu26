@@ -2,5 +2,5 @@
 .DS_Store
 *_cache/
 **/data/
-_site
+/_site/
 **/*.quarto_ipynb
