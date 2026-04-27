@@ -1,0 +1,103 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  title: SFU Summer School 2026
+  image: /img/logo_sfudrac.png
+  favicon: /img/favicon_sfu.png
+  site-url: https://sfu26.netlify.app/
+  repo-url: https://github.com/WestDRI/sfu26
+  page-navigation: true
+  page-footer:
+    left:
+      - text: About
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/WestDRI
+        target: _blank
+        aria-label: GitHub organization
+      - icon: wikipedia
+        href: https://docs.alliancecan.ca/wiki/Technical_documentation
+        target: _blank
+        aria-label: Alliance wikipedia
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCfgds4Qf7VFOv4ORRvFFmhw
+        target: _blank
+        aria-label: YouTube channel
+      - icon: calendar-week
+        href: https://rcss24.netlify.app/calendar
+        aria-label: Training calendar
+      - icon: envelope-fill
+        href: https://rcss24.netlify.app/newsletter
+        aria-label: Newsletter
+      - icon: mailbox2
+        href: https://rcss24.netlify.app/contact
+        aria-label: Contact us
+  navbar:
+    background: light
+    logo: /img/logo_sfudrac.png
+    logo-alt: "SFU & DRAC logos"
+    title: false
+    left:
+      - text: Unix shell
+        href: bash.qmd
+      - text: HPC
+        href: hpc.qmd
+      - text: Cedar tour
+        href: tour.qmd
+      - text: Git
+        href: git.qmd
+      - text: R optimizations
+        href: r.qmd
+      - text: Python Polars
+        href: polars.qmd
+      - text: Parallel programming
+        href: chapel.qmd
+      - text: Accelerated Python
+        href: python.qmd
+    tools:
+      - icon: github
+        href: https://github.com/WestDRI
+        target: _blank
+        aria-label: GitHub organization
+      - icon: wikipedia
+        href: https://docs.alliancecan.ca/wiki/Technical_documentation
+        target: _blank
+        aria-label: Alliance wikipedia
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCfgds4Qf7VFOv4ORRvFFmhw
+        target: _blank
+        aria-label: YouTube channel
+      - icon: calendar-week
+        href: calendar.qmd
+        aria-label: Training calendar
+      - icon: envelope-fill
+        href: newsletter.qmd
+        aria-label: Newsletter
+      - icon: mailbox2
+        href: contact.qmd
+        aria-label: Contact us
+
+format:
+  html:
+    toc: true
+    toc-title: "<em>On this page:</em>"
+    toc-depth: 5
+    highlight-style: vim-dark
+    theme:
+      light: [cosmo, theme.scss, theme_light.scss, styles.css]
+      dark: [cosmo, theme.scss, theme_dark.scss, styles_dark.css]
+    link-external-newwindow: true
+    reference-location: margin
+    fig-cap-location: margin
+    callout-icon: false
+
+execute:
+  freeze: auto
+  cache: true
+  error: true
+  echo: true
