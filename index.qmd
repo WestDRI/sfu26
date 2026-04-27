@@ -1,0 +1,191 @@
+---
+title: SFU Research Computing 2026 Summer School
+description: |
+  <br>This in-person summer school is offered by SFU's [Research Computing Group](https://www.rcg.sfu.ca) on behalf of the [Digital Research Alliance of
+  Canada](https://alliancecan.ca). It is hosted by [SFU's Big Data Hub](https://www.sfu.ca/big-data.html) and is open to all researchers at SFU and other Canadian post-secondary institutions.
+
+  <center>[Register](xxx){.btn .btn-outline-primary}</center>
+
+toc: false
+title-block-banner: true
+anchor-sections: false
+---
+
+Each day we will have morning (9:30 or 10am – 12:30pm) and afternoon (1:30m – 4:30pm) sessions, with a visit of the Cedar supercomputer on Tuesday starting at 8:30am. <!-- There will be short -->
+<!-- coffee breaks at 11:00am and 3:00pm with coffee and snacks covered by the registration fee. Participants will -->
+<!-- have to find lunch on their own. -->
+
+You can register for the full program for $50, or choose specific days at $15 per day. All sessions will be in-person at SFU Burnaby campus, in SFU's Big Data Hub Presentation Studio (Applied Sciences Building, ASB 10900).
+
+To participate in the hands-on exercises, you will need to bring your own laptop. We will provide guest
+accounts on our HPC training cluster. For more specific requirements, please see the individual course
+pages. <br><br><br>
+
+:::{layout="[[2.5, 5, 5], [2.5, 1, 9], [2.5, 5, 5], [2.5, 5, 5], [2.5, 10]]"}
+
+:::{.card-body}
+
+:::{.date}
+
+Monday<br>June 1, 2026
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Unix shell](/bash.qmd){.card-title .stretched-link}
+
+[Half-day Unix shell]{.text-muted}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[HPC](/hpc.qmd){.card-title .stretched-link}
+
+[Half-day HPC]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Tuesday<br>June 2, 2026
+
+:::
+
+:::
+
+:::{.card-special .mb-3}
+
+:::{.card-body}
+
+[Cedar tour <br><br>](/tour.qmd){.stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[HPC](/hpc.qmd){.card-title .stretched-link}
+
+[Full-day high-performance computing]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Wednesday<br>June 3, 2026
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Git](/git.qmd){.card-title .stretched-link}
+
+[Half-day version control with Git]{.text-muted}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[R optimizations](/r.qmd){.card-title .stretched-link}
+
+[Half-day R code optimizations]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Thursday<br>June 4, 2026
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Python Polars](/polars.qmd){.card-title .stretched-link}
+
+[Half-day Python DataFrames]{.text-muted}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Parallel programming](/chapel.qmd){.card-title .stretched-link}
+
+[Half-day programming with Chapel]{.text-muted}
+
+:::
+
+:::
+
+:::{.card-body}
+
+:::{.date}
+
+Friday<br>June 5, 2026
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body}
+
+[Accelerated Python](/python.qmd){.card-title .stretched-link}
+
+[Full-day speeding up Python with compilers and parallel execution]{.text-muted}
+
+:::
+
+:::
+
+:::
+
+<br><br>
+![](/img/sfudrac.png){fig-alt="frontlogo"}
+
+<br>
+<center>Hosted by:</center>
+<br>
+
+<center>![](/img/logo_bigdata.png){fig-alt="frontlogo" width="35%"}</center>
