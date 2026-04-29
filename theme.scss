@@ -66,6 +66,16 @@
   }
 }
 
+// for the secondary nav present only on phones
+@media (max-width: 991.98px) {
+  nav.quarto-secondary-nav {
+    border-top: none;
+    border-bottom: none;
+    background-color: $grey-soft;
+    color: $grey-black;
+  }
+}
+
 #title-block-header {
   margin-bottom: -1px;
 }
@@ -386,8 +396,7 @@ img[alt=frontlogo] {
   .def {
     margin: 1.5rem 0;
     padding: 0.7rem 0.7rem 0rem 0.9rem;
-    line-height: 1.2rem;
-    font-size: 0.78rem;
+    font-size: 1.05rem;
   }
 }
 
