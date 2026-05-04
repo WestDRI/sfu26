@@ -11,7 +11,7 @@ title-block-banner: true
 anchor-sections: false
 ---
 
-Each day we will have morning (9:30 or 10am – 12:30pm) and afternoon (1:30m – 4:30pm) sessions, with a visit of the Cedar supercomputer on Tuesday starting at 8:30am. <!-- There will be short -->
+Each day we will have morning (9:30 or 10am – 12:30pm) and afternoon (1:30m – 4:30pm) sessions, with a visit of the Fir supercomputer on Tuesday starting at 8:30am. <!-- There will be short -->
 <!-- coffee breaks at 11:00am and 3:00pm with coffee and snacks covered by the registration fee. Participants will -->
 <!-- have to find lunch on their own. -->
 
@@ -71,7 +71,7 @@ Tuesday<br>June 2, 2026
 
 :::{.card-body}
 
-[Cedar tour <br><br>](/tour.qmd){.stretched-link}
+[Fir tour <br><br>](/tour.qmd){.stretched-link}
 
 :::
 
