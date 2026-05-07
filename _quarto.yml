@@ -47,7 +47,7 @@ website:
         href: bash.qmd
       - text: HPC
         href: hpc.qmd
-      - text: Cedar tour
+      - text: Fir tour
         href: tour.qmd
       - text: Git
         href: git.qmd
