@@ -10,11 +10,8 @@ title-block-banner: true
 
 :::{.topdef}
 
-**Date:** \
-Thursday, June 4, 2026
-
-**Time:** \
-9:30am–12:30pm (morning session)
+**Date and time:** \
+Thursday, June 4, 2026, 9:30am-12:30pm (morning session)
 
 **Location:** \
 SFU's Big Data Hub Presentation Studio (ASB 10900)

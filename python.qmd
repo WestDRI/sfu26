@@ -17,16 +17,18 @@ description: |
   processing. You'll learn how to parallelize CPU-bound numerical workflows -- with and without reduction --
   as well as optimize I/O-bound tasks. We'll also explore combining Ray with Numba and will discuss coding
   tightly coupled parallel problems.
+  
+  Finally, we will learn how to use the Numba compiler to harness the full power of NVIDIA GPUs without
+  leaving the Python ecosystem. We'll cover high-level array acceleration, writing CUDA kernels, managing data
+  transfer and basic performance tuning techniques. As a capstone exercise, we implement
+  prime factorization on a GPU, with a focus on monitoring and optimizing GPU utilization on a cluster.
 title-block-banner: true
 ---
 
 :::{.topdef}
 
-**Date:** \
-Friday, June 5, 2026
-
-**Time:** \
-9:30pm–4:30pm with a one-hour lunch break (12:30pm-1:30pm)
+**Date and time:** \
+Friday, June 5, 2026, 9:30pm-4:30pm (all day with a one-hour lunch break 12:30pm-1:30pm)
 
 **Location:** \
 SFU's Big Data Hub Presentation Studio (ASB 10900)
