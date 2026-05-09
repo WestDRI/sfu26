@@ -4,7 +4,7 @@ description: |
   <br>This in-person summer school is offered by SFU's [Research Computing Group](https://www.rcg.sfu.ca) on behalf of the [Digital Research Alliance of
   Canada](https://alliancecan.ca). It is hosted by [SFU's Big Data Hub](https://www.sfu.ca/big-data.html) and is open to all researchers at SFU and other Canadian post-secondary institutions.
 
-  <center>[Register](xxx){.btn .btn-outline-primary}</center>
+  <center>[Register](https://www.eventbrite.ca/e/1989116488964){.btn .btn-outline-primary}</center>
 
 toc: false
 title-block-banner: true
