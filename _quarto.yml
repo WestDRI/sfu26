@@ -3,6 +3,7 @@ project:
   output-dir: _site
   render:
     - "*.qmd"
+    - "!/login.qmd"
 
 website:
   title: SFU Summer School 2026
