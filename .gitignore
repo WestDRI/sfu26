@@ -4,8 +4,9 @@
 **/data/
 /_site/
 **/*.quarto_ipynb
-/login.org
 /login.qmd
-/summerSchoolPoster.pdf
+/login.html
+/login_files/libs
 /img/qr_usernames.png
+/summerSchoolPoster.pdf
 serve.sh
