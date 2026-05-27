@@ -4,3 +4,7 @@
 **/data/
 /_site/
 **/*.quarto_ipynb
+/login.org
+/login.qmd
+/summerSchoolPoster.pdf
+/img/qr_usernames.png
