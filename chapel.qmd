@@ -1,5 +1,5 @@
 ---
-title: Introduction to Chapel
+title: Introduction to parallel programming in Chapel
 description: |
   <br>If you have never done parallel programming before, this beginner-friendly course will guide you through the
   basic concepts of writing data-parallel programs for both shared- and distributed-memory systems.
@@ -17,11 +17,8 @@ title-block-banner: true
 
 :::{.topdef}
 
-**Date:** \
-Thursday, June 4, 2026
-
-**Time:** \
-1:30pm–4:30pm (afternoon session)
+**Date and time:** \
+Thursday, June 4, 2026, 1:30pm-4:30pm (afternoon session)
 
 **Location:** \
 SFU's Big Data Hub Presentation Studio (ASB 10900)
