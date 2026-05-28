@@ -99,7 +99,8 @@ Then press `Enter`.
 
 :::{.note}
 
-For those using MobaXterm, you will be asked whether you want to save the password. Click [No]{.codelike}. \
+For those using MobaXterm, you will be asked whether you want to save the password. Click [No]{.codelike}.
+
 (There is no point as this is a temporary cluster and if you click [Yes]{.codelike}, you will have to fill in extra steps to create a password database).
 
 :::
