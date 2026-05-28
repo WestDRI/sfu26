@@ -60,6 +60,8 @@ website:
       - text: Accelerated Python
         href: python.qmd
     tools:
+      - icon: qr-code
+        href: qr.qmd
       - icon: github
         href: https://github.com/WestDRI
         target: _blank
