@@ -27,5 +27,3 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 <!-- <br> -->
 
 <!-- * [Course notes](https://mint.westdri.ca/bash/top_intro) -->
-<!-- * Get a username: \ -->
-<!-- Go to [this list](https://tinyurl.com/clusterusernames) and write down your first name or a pseudo next to any unclaimed username. -->

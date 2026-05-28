@@ -25,4 +25,5 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 :::
 
 <!-- <br> -->
+
 <!-- Course notes can be found [here](https://mint.westdri.ca/git/top_intro). -->
