@@ -3,6 +3,7 @@ title: QR code for this site
 toc: false
 theme:
   light: [cosmo, theme.scss, theme_light.scss, styles.css]
+  dark: [cosmo, theme.scss, theme_light.scss, styles.css]
 ---
 <br>
 
