@@ -6,4 +6,4 @@ theme:
 ---
 <br>
 
-![](img/qr_site.png)
+![](img/qr_site.png){width="60%"}
