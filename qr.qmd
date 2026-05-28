@@ -1,11 +1,7 @@
 ---
 title: QR code for this site
 toc: false
-format:
-  html:
-    theme:
-      light: [cosmo, theme.scss, theme_light.scss, styles.css]
-      dark: [cosmo, theme.scss, theme_light.scss, styles.css]
+css: force_light.css
 ---
 <br>
 

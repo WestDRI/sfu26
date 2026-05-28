@@ -1,0 +1,10 @@
+/* Hide the light/dark mode toggle button on this page */
+.quarto-color-scheme-toggle {
+  display: none !important;
+}
+
+/* Force light colors for the body and text */
+body.quarto-light, body {
+  background-color: #fff !important;
+  color: #000 !important;
+}
