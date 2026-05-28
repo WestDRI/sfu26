@@ -77,9 +77,7 @@ Here is how to log in with MobaXterm:
 
 :::{.note}
 
-[Here](https://mobaxterm.mobatek.net/demo.html) is a live demo:
-
-<iframe width="690" height="600" src="https://mobaxterm.mobatek.net/demo.html" data-external="1"></iframe>
+[Here](https://mobaxterm.mobatek.net/demo.html) is a live demo.
 
 :::
 
