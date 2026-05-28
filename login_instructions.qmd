@@ -1,0 +1,129 @@
+---
+title: Accessing the school training cluster
+author: Marie-Hélène Burle
+---
+
+:::{.def}
+
+In many sections of this summer school, we will login to a training cluster via SSH. \
+Here are the instructions on how to do so.
+
+:::
+
+## Step 1: Get the info
+
+1. Scan the QR code that we will show you to get the URL where you can pick a username.
+
+2. Take a picture of the screen when we display the hostname and password.
+
+## Step 2: Claim a username
+
+Add your first name or a pseudo next to a free username on the list to claim it.
+
+[Your username is the name that was already on the list, NOT what you wrote next to it]{.emph} (which doesn't matter at all and only serves at signalling that this username is now taken).
+
+Your username will look like `userxx`—`xx` being 2 digits—with **no space** and **no capital letter**.
+
+## Step 3: Run the ssh command
+
+::: {.panel-tabset}
+
+### Linux/macOS
+
+Linux users: &ensp;&ensp;open the terminal emulator of your choice. \
+macOS users: &nbsp;&nbsp;open "Terminal".
+
+Then type:
+
+```{.bash}
+ssh userxx@hostname
+```
+
+and press `Enter`.
+
+:::{.note}
+
+- Replace `userxx` by your username (e.g. `user09`).
+- Replace `hostname` by the hostname we will give you the day of the workshop.
+
+:::
+
+When asked:
+
+> Are you sure you want to continue connecting (yes/no/[fingerprint])?
+
+Answer: "yes".
+
+### Windows
+
+We suggest using [the free version of MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html), a software that comes with a terminal emulator and a GUI interface for SSH sessions.
+
+Here is how to install MobaXterm:
+
+- download the "Installer edition" to your computer (green button to the right),
+- unzip the file,
+- double-click on the `.msi` file to launch the installation.
+
+Here is how to log in with MobaXterm:
+
+- open MobaXterm,
+- click on [Session]{.codelike} (top left corner),
+- click on [SSH]{.codelike} (top left corner),
+- fill in the [Remote host *]{.codelike} box with the cluster hostname we gave you,
+- tick the box [Specify username]{.codelike},
+- fill in the box with the username you selected (e.g. `user09`),
+- press [OK]{.codelike},
+- when asked `Are you sure you want to continue connecting (yes/no/[fingerprint])?`, answer: "yes".
+
+:::{.note}
+
+[Here](https://mobaxterm.mobatek.net/demo.html) is a live demo:
+
+<iframe width="690" height="600" src="https://mobaxterm.mobatek.net/demo.html" data-external="1"></iframe>
+
+:::
+
+:::
+
+## Step 4: Enter the password
+
+When prompted, enter the password we gave you.
+
+[You will not see anything happen as you type the password. This is normal and it is working, so keep on typing the password.]{.emph}
+
+:::{.note}
+
+This is called blind typing and is a Linux safety feature. It can be unsettling at first not to get any feed-back while typing as it really looks like it is not working. Type slowly and make sure not to make typos.
+
+:::
+
+Then press `Enter`.
+
+:::{.note}
+
+For those using MobaXterm, you will be asked whether you want to save the password. Click [No]{.codelike}. \
+(There is no point as this is a temporary cluster and if you click [Yes]{.codelike}, you will have to fill in extra steps to create a password database).
+
+:::
+
+## Am I logged in?
+
+To know whether or not you are logged in, look at your prompt: it should look like the following (with your actual username):
+
+```
+[userxx@login1 ~]$
+```
+
+## Troubleshooting
+
+Problems logging in are almost always due to typos. If you cannot log in, retry slowly, entering your password carefully.
+
+## How do I log out?
+
+You can log out by pressing [Ctl+d]{.codelike}.
+
+## Video
+
+Here is a video covering this material slowly:
+
+{{< video https://www.youtube.com/embed/ysdGlrm__Rs >}}

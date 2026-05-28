@@ -21,7 +21,24 @@ To participate in the hands-on exercises, you will need to bring your own laptop
 accounts on our HPC training cluster. For more specific requirements, please see the individual course
 pages. <br><br><br>
 
-:::{layout="[[2.5, 5, 5], [2.5, 1, 9], [2.5, 5, 5], [2.5, 5, 5], [2.5, 10]]"}
+:::{layout="[[2.5, 10], [2.5, 5, 5], [2.5, 1, 9], [2.5, 5, 5], [2.5, 5, 5], [2.5, 10]]"}
+
+:::{.card-body}
+
+:::{.date}
+:::
+
+:::
+
+:::{.card-special .mb-3}
+
+:::{.card-body}
+
+[Accessing the school training cluster](login_instructions.qmd){.card-title .stretched-link}
+
+:::
+
+:::
 
 :::{.card-body}
 

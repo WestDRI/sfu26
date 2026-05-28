@@ -60,6 +60,8 @@ website:
       - text: Accelerated Python
         href: python.qmd
     tools:
+      - icon: cloud-check-fill
+        href: login_instructions.qmd
       - icon: qr-code-scan
         href: qr.qmd
       - icon: github
