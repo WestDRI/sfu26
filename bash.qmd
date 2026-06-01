@@ -24,6 +24,6 @@ We will provide access to one of our Linux systems. To make use of it, attendees
 
 :::
 
-<!-- <br> -->
+<br>
 
-<!-- * [Course notes](https://mint.westdri.ca/bash/top_intro) -->
+* [Course notes](https://mint.westdri.ca/bash/top_intro)
