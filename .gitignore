@@ -5,7 +5,9 @@
 /_site/
 **/*.quarto_ipynb
 /login.qmd
+/fir_tour.qmd
 /img/qr_usernames.png
+/img/qr_fir_tour.png
 /summerSchoolPoster.pdf
 serve.sh
 /img/qr_fir_tour.png
