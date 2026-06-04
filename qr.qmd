@@ -1,5 +1,5 @@
 ---
-title: QR code for this site
+title: QR code for our school website
 toc: false
 css: force_light.css
 ---
