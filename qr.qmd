@@ -1,8 +1,8 @@
 ---
 title: QR code for our school website
+title-block-banner: true
 toc: false
 css: force_light.css
 ---
-<br>
 
 ![](img/qr_site.png){width="60%"}
