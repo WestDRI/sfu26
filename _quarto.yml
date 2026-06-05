@@ -31,10 +31,10 @@ website:
       - icon: calendar-week
         href: https://rcss24.netlify.app/calendar
         aria-label: Training calendar
-      - icon: envelope-fill
+      - icon: mailbox2
         href: https://rcss24.netlify.app/newsletter
         aria-label: Newsletter
-      - icon: mailbox2
+      - icon: envelope-fill
         href: https://rcss24.netlify.app/contact
         aria-label: Contact us
   navbar:
@@ -79,10 +79,10 @@ website:
       - icon: calendar-week
         href: calendar.qmd
         aria-label: Training calendar
-      - icon: envelope-fill
+      - icon: mailbox2
         href: newsletter.qmd
         aria-label: Newsletter
-      - icon: mailbox2
+      - icon: envelope-fill
         href: contact.qmd
         aria-label: Contact us
 
