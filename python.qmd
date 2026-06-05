@@ -28,7 +28,7 @@ title-block-banner: true
 :::{.topdef}
 
 **Date and time:** \
-Friday, June 5, 2026, 9:30pm-4:30pm (all day with a one-hour lunch break 12:30pm-1:30pm)
+Friday, June 5, 2026, 9:30am-4:30pm (all day with a one-hour lunch break 12:30pm-1:30pm)
 
 **Location:** \
 SFU's Big Data Hub Presentation Studio (ASB 10900)
